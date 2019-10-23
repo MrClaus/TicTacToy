@@ -1,0 +1,3 @@
+my-profile:Marat/
+server-ip:localhost/
+server-port:27015/
